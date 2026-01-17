@@ -37,4 +37,4 @@ This project is engineered as a lightweight, single-file application for zero-de
 3.  No `npm install` or backend server is required!
 
 ---
-*Built by [Your Name] for the Deloitte NLA Engineering Track.*
+*Built by Yashasvi Raj Singh for the Deloitte NLA Engineering Track.*
